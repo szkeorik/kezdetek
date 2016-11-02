@@ -1,0 +1,2 @@
+# kezdetek
+kezdő programjaim
